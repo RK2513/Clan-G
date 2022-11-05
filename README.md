@@ -1,6 +1,6 @@
-# tictactoe
+# Clan G
 
-A TicTacToe Flutter project.
+A Game Flutter project.
 
 ## Getting Started
 
